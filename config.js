@@ -23,12 +23,12 @@ global.REACT_NUMBER = '94758512807' //මෙතන number එක.
 // Other
 global.owner = ['94758512807',''] //මෙතන number එක.
 global.premium = ['94758512807','9476342733'] //මෙතන number එක.
-global.botname = '❤QYEEN THARU BOT❤' //මෙතන නම.
+global.botname = '❤LUCIFER M-D❤' //මෙතන නම.
 global.ownername = 'Lucifer MD' //මෙතන නම.
 global.ownername = 'Gayantha Prabod' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/HiCr9f0PIIzGse0YfmphKi' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/HiCr9f0PIIzGse0YfmphKi' //මෙතන grouplink එක.
-global.packname = '❤QUEEN THARU❤' //මෙතන නම.
+global.packname = '❤LUCIFER M-D❤' //මෙතන නම.
 global.cap = '*By Gayantha*' //මෙතන නම.
 global.img = 'https://i.ibb.co/BBB6Rxn/Vihanga-MD.png' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
@@ -67,7 +67,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*ටිකක් ඉන්න ⏳*',
+    wait: '*Please waite ⏳*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
